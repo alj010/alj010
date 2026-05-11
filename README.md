@@ -1,7 +1,7 @@
 <h1>Hi, I'm Alyssa 👋🏽</h1>
 
 <p>
-Ph.D. Candidate, HEPCAT Fellow / Sloan Scholar, and quantitative developer who loves surfing, cycling, and living in San Diego ☀️🌴
+Ph.D. Candidate, HEPCAT Fellow / Sloan Scholar, and quant dev who loves surfing, cycling, and living in San Diego ☀️🌴
 </p>
 
 <p>
