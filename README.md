@@ -11,7 +11,7 @@ My background is in experimental physics, optical instrumentation, and high-dime
 <h3>🗂️ Recent Projects</h3>
 
 <ul>
-  <li>📈 Quantitative trading systems & automated backtesting</li>
+  - 📈 Quantitative trading systems & automated backtesting
   <li>🧠 Machine learning for forecasting & signal detection</li>
   <li>☁️ NLP-based sentiment analysis & ensemble modeling</li>
   <li>🔭 Optical instrumentation for high-energy astrophysics</li>
