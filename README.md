@@ -8,11 +8,13 @@ Ph.D. Candidate, HEPCAT Fellow / Sloan Scholar, and quantitative developer who l
 My background is in experimental physics, optical instrumentation, and high-dimensional data analysis, with a focus on signal detection, anomaly detection, and large-scale scientific computing. Currently working with Dr. Shelley Wright in UCSD’s Optical & Infrared Laboratory on the assembly, integration, and validation of PANOSETI telescope modules using SiPM detectors for fast-transient optical searches. Outside of the lab, I build ML-driven quantitative trading and forecasting models using a physics-based approach to noisy, high-dimensional environments.
 </p>
 
+<h3>🛠️ Recent Projects</h3>
+
 <ul>
   <li>📈 Quantitative trading systems & automated backtesting</li>
   <li>🧠 Machine learning for forecasting & signal detection</li>
   <li>☁️ NLP-based sentiment analysis & ensemble modeling</li>
-  <li>🔭 Optical instrumentation for telescope systems</li>
+  <li>🔭 Optical instrumentation for high-energy astrophysics</li>
   <li>⚡ Nanosecond-scale transient detection pipelines</li>
 </ul>
 
@@ -25,10 +27,10 @@ My background is in experimental physics, optical instrumentation, and high-dime
   <li>Previous NASA GSFC Intern</li>
 </ul>
 
-<h3>⚙️ Skills</h3>
+<h3>🛠️ Skills</h3>
 
 <p>
-Python • PyTorch • SQL • Linux • API Development • Time-Series Modeling • Web Scraping • ML Systems • Scientific Instrumentation • NLP • Bloomberg Terminal & OpenBB
+Python • PyTorch • SQL • Linux • API Development • Time-Series Modeling • Web Scraping • ML Systems • NLP • Bloomberg Terminal & OpenBB • Scientific Instrumentation
 </p>
 
 <h3>🌌 Interests</h3>
