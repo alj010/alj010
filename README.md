@@ -1,7 +1,5 @@
 <h2>Hi, I'm Alyssa 👋🏽</h2>
 
-<sub>
-
 Ph.D. Candidate, HEPCAT Fellow / Sloan Scholar, and quantitative developer who loves surfing, cycling, and living in San Diego ☀️🌴
 
 My background is in experimental physics, optical instrumentation, and high-dimensional data analysis, with a focus on signal detection, anomaly detection, and large-scale scientific data systems. Outside of the lab, I build ML-driven quantitative trading and forecasting systems using a physics-based approach to noisy, high-dimensional environments.
@@ -30,5 +28,3 @@ Quantitative Finance • AI/ML • Statistical Signal Processing • Complex Sys
 📫 Links  
 LinkedIn: https://www.linkedin.com/in/alj010/  
 Portfolio: https://alj010.github.io
-
-</sub>
