@@ -14,10 +14,10 @@ My projects span:
 Currently, my research is conducted with Dr. Shelley Wright in UCSD’s Optical & Infrared Laboratory, where I work on the assembly, integration, and validation of PANOSETI telescope modules that use SiPM detectors for fast-transient searches in the optical.
 
 🎓 Background:
-Ph.D. Candidate — UC San Diego 
-M.S. Astrophysics - UC San Diego
-B.S. Physics — Cal Poly Humboldt
-Previous NASA GSFC Intern
+- Ph.D. Candidate — UC San Diego 
+- M.S. Astrophysics - UC San Diego
+- B.S. Physics — Cal Poly Humboldt
+- Previous NASA GSFC Intern
 
 ⚙️ Skills:
 Python • PyTorch • SQL • Linux • API development • Time-Series Modeling • Web Scraping • ML Systems • Scientific Instrumentation • NLP • Bloomberg Terminal & OpenBB
