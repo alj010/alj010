@@ -8,7 +8,7 @@ Ph.D. Candidate, HEPCAT Fellow / Sloan Scholar, and quant dev who loves surfing,
 My background is in experimental physics, optical instrumentation, and high-dimensional data analysis, with a focus on signal detection, anomaly detection, and large-scale scientific computing. Currently working with Dr. Shelley Wright in UCSD’s Optical & Infrared Laboratory on the assembly, integration, and validation of PANOSETI telescope modules using SiPM detectors for fast-transient optical searches. Outside of the lab, I build ML-driven quantitative trading and forecasting models using a physics-based approach to noisy, high-dimensional environments.
 </p>
 
-<h3>🛠️ Recent Projects</h3>
+<h3>🗂️ Recent Projects</h3>
 
 <ul>
   <li>📈 Quantitative trading systems & automated backtesting</li>
@@ -36,10 +36,10 @@ Python • PyTorch • SQL • Linux • API Development • Time-Series Modelin
 <h3>🌌 Interests</h3>
 
 <p>
-Quantitative Finance • AI/ML • Statistical Signal Processing • Complex Systems
+Time-Domain Astrophysics • Quantitative Finance • AI/ML • Statistical Signal Processing 
 </p>
 
-<h3>📫 Links</h3>
+<h3>🔗 Links</h3>
 
 <p>
 <a href="https://www.linkedin.com/in/alj010/">LinkedIn</a><br>
