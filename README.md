@@ -1,4 +1,4 @@
-<h3>Hi, I'm Alyssa 👋🏽</h3>
+<h2>Hi, I'm Alyssa 👋🏽</h2>
 
 <sub>
 
