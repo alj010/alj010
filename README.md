@@ -19,7 +19,7 @@ My background is in experimental physics, optical instrumentation, and high-dime
   <li>M.S. Astrophysics — UC San Diego</li>
   <li>B.S. Physics — Cal Poly Humboldt, <i>cum laude</i></li>
   <li>Previous NASA GSFC Intern (x2)</li>
-  <li><u>Additional degrees</u>: The Ohio State University (MFA) & Temple University (BFA) 
+  <li><u>Additional degrees</u>: The Ohio State University (MFA) & Temple University (BFA)</li>
   
 </ul>
 <h3>🛠️ Skills</h3>
