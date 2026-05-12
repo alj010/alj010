@@ -7,7 +7,7 @@ My background is in experimental physics, optical instrumentation, and high-dime
 </p>
 <h3>🗂️ Recent Projects</h3>
 <ul>
-  <li><strong>Current: Hawkes process modeling for self-exciting event dynamics in financial markets</strong></li>
+  <li style="color: #0066cc;"><strong><u>Current</u>: Hawkes process modeling for self-exciting event dynamics in financial markets</strong></li>
   <li>Quantitative trading systems incl. automated backtesting</li>
   <li>Machine learning for forecasting + signal detection</li>
   <li>NLP-based sentiment analysis w/ensemble modeling</li>
