@@ -7,7 +7,7 @@ My background is in experimental physics, optical instrumentation, and high-dime
 </p>
 <h3>🗂️ Recent Projects</h3>
 <ul>
-<li><img src="https://img.shields.io/badge/Current-Hawkes%20process%20modeling%20for%20self--exciting%20event%20dynamics%20in%20financial%20markets-0066cc?style=flat"/> </li>        <li>Quantitative trading systems incl. automated backtesting</li>
+<li><a href="https://github.com/alj010/FinRL-Trading"><img src="https://img.shields.io/badge/Current-Hawkes%20process%20modeling%20for%20self--exciting%20event%20dynamics%20in%20financial%20markets-0066cc?style=flat"/></a></li>       <li>Quantitative trading systems incl. automated backtesting</li>
   <li>Machine learning for forecasting + signal detection</li>
   <li>NLP-based sentiment analysis w/ensemble modeling</li>
   <li>Optical instrumentation for high-energy astrophysics</li>
