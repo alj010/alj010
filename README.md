@@ -1,8 +1,8 @@
 <h1>Hi, I'm Alyssa 👋🏽</h1>
 
-<p>
+<h4>
 Ph.D. Candidate, HEPCAT Fellow / Sloan Scholar, and quant dev who loves surfing, cycling, and living in San Diego! ☀️🌴🐠
-</p>
+</h4>h1>
 
 <p>
 My background is in experimental physics, optical instrumentation, and high-dimensional data analysis, with a focus on signal detection, anomaly detection, and large-scale scientific computing. Currently working with Dr. Shelley Wright in UCSD’s Optical & Infrared Laboratory on the assembly, integration, and validation of PANOSETI telescope modules using SiPM detectors for fast-transient optical searches. Outside of the lab, I build ML-driven quantitative trading and forecasting models using a physics-based approach to noisy, high-dimensional environments.
