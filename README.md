@@ -32,8 +32,8 @@ Time-Domain Astrophysics • Quantitative Finance • AI/ML • Statistical Sign
 </p>
 <h3>🏅 Awards</h3>
 <ul>
-  <li><a href="https://grad.ucsd.edu/oar2/programs-resources/ucem/sloan-scholars-pages/2022-sloan-scholars/johnson-alyssa.html">2022-present | UC San Diego Sloan Scholars Fellowship</a></li>
   <li><a href="https://hepcat.ucsd.edu/graduate-fellows/">2024-present | High Energy Physics Consortium for Advanced Training (HEPCAT) Fellowship</a></li>
+  <li><a href="https://grad.ucsd.edu/oar2/programs-resources/ucem/sloan-scholars-pages/2022-sloan-scholars/johnson-alyssa.html">2022-present | UC San Diego Sloan Scholars Fellowship</a></li>
   <li><a href="https://spacegeneration.org/announcement-of-the-sgac-nasa-scan-scholarship-2022">2022 | NASA Space Generation Advisory Council Scholarship</a></li>
   <li>2021-2022 | NASA Sally Ride Scholarship
   <li>2021 | Cal-Bridge Program Scholarship</li>
