@@ -3,18 +3,18 @@
 Ph.D. Candidate, HEPCAT Fellow / Sloan Scholar, and quant dev who loves surfing, cycling, and living in San Diego! ☀️🌴🐠
 </h3>
 <p>
-My background is in experimental physics, optical instrumentation, and high-dimensional data analysis, with a focus on signal detection, anomaly detection, and large-scale scientific computing. Currently working with Dr. Shelley Wright in UCSD's Optical & Infrared Laboratory on the assembly, integration, and validation of PANOSETI telescope modules using SiPM detectors for fast-transient optical searches. Outside of the lab, I build ML-driven quantitative trading and forecasting models using a physics-based approach to noisy, high-dimensional environments.
+My <strong>background is in experimental physics, optical instrumentation, and high-dimensional data analysis</strong>, with a focus on signal detection, anomaly detection, and large-scale scientific computing. Currently working with Dr. Shelley Wright in UCSD's Optical & Infrared Laboratory on the assembly, integration, and validation of PANOSETI telescope modules using SiPM detectors for fast-transient optical searches. Outside of the lab, I <strong>build ML-driven quantitative trading and forecasting models using a physics-based approach</strong> to noisy, high-dimensional environments.
 </p>
 
 <h3>Background</h3>
 <ul>
-  <li>Ph.D. Candidate — UC San Diego</li>
+  <li>Ph.D. Candidate, Astrophysics — UC San Diego</li>
   <li>M.S. Astrophysics — UC San Diego</li>
   <li>B.S. Physics — Cal Poly Humboldt, <i>cum laude</i></li>
   <li><strong>Previous NASA GSFC Intern (x2)</strong></li>
   <li>Additional degrees: The Ohio State University (MFA) & Temple University (BFA)</li>
-  
 </ul>
+
 <h3>Skills</h3>
 <p>
 Python • PyTorch • SQL • Linux • API Development • Time-Series Modeling • Web Scraping • ML Systems • NLP • Bloomberg Terminal & OpenBB • Scientific Instrumentation
@@ -28,7 +28,7 @@ Time-Domain Astrophysics • Quantitative Finance • AI/ML • Statistical Sign
   <li><a href="https://hepcat.ucsd.edu/graduate-fellows/">2024-present | High Energy Physics Consortium for Advanced Training (HEPCAT) Fellowship</a></li>
   <li><a href="https://grad.ucsd.edu/oar2/programs-resources/ucem/sloan-scholars-pages/2022-sloan-scholars/johnson-alyssa.html">2022-present | UC San Diego Sloan Scholars Fellowship</a></li>
   <li><a href="https://spacegeneration.org/announcement-of-the-sgac-nasa-scan-scholarship-2022">2022 | NASA Space Generation Advisory Council Scholarship</a></li>
-  <li>2021-2022 | NASA Sally Ride Scholarship
+  <li>2021-2022 | NASA Sally Ride Scholarship</li>
   <li>2021 | Cal-Bridge Program Scholarship</li>
 </ul>
 <h3>Select Publications</h3>
