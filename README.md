@@ -3,7 +3,7 @@
 Ph.D. Candidate, HEPCAT Fellow / Sloan Scholar, and quant dev who loves surfing, cycling, and living in San Diego! ☀️🌴🐠
 </h3>
 <p>
-My <strong>background is in experimental physics & optical instrumentation, with a focus on signal detection, anomaly detection, and large-scale scientific computing. Currently working with Dr. Shelley Wright in UCSD's Optical & Infrared Laboratory on the assembly, integration, and validation of SiPM detector systems for nanosecond-scale optical transient detection and high-time resolution instrumentation. Outside of the lab, I <strong>build ML-driven quantitative trading and forecasting models using a physics-based approach</strong> to noisy, high-dimensional environments.
+My <strong>background is in experimental physics & optical instrumentation</strong>, with a focus on signal detection, anomaly detection, and large-scale scientific computing. Currently working with Dr. Shelley Wright in UCSD's Optical & Infrared Laboratory on the assembly, integration, and validation of SiPM detector systems for nanosecond-scale optical transient detection and high-time resolution instrumentation. Outside of the lab, I <strong>build ML-driven quantitative trading and forecasting models using a physics-based approach</strong> to noisy, high-dimensional environments.
 </p>
 
 <h3>Background</h3>
