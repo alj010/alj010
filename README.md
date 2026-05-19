@@ -17,7 +17,7 @@ My <strong>background is in experimental physics & optical instrumentation</stro
 
 <h3>Skills</h3>
 <p>
-Python • PyTorch • SQL • Linux • API Development • Time-Series Modeling • Web Scraping • ML Systems • NLP • Bloomberg Terminal & OpenBB • Scientific Instrumentation
+Python • PyTorch • scikit-learn • SQL v Linux • Docker • Time-Series Modeling • NLP/LLMs (HuggingFace, RAG) • XGBoost/LightGBM • Bloomberg Terminal • Git • Distributed Computing
 </p>
 <h3>Interests</h3>
 <p>
