@@ -31,7 +31,7 @@ Time-Domain Astrophysics • Quantitative Finance • AI/ML • Statistical Sign
   <li>2021-2022 | NASA Sally Ride Scholarship</li>
   <li>2021 | Cal-Bridge Program Scholarship</li>
 </ul>
-<h3>Select Publications</h3>
+<h3>Publications</h3>
 <ul>
   <li><a href="https://pubs.aip.org/aip/jurp/article/33/1/100002/2929427/Optimization-of-an-Active-Leveling-Scheme-for-a">Johnson, A., et al. "Optimization of an Active Leveling Scheme for a Short-Range Gravity Experiment." <i>J. Undergrad. Rep. Phys.</i> 33, 100002 (2023)</a></li>
   <li><a href="https://www.spiedigitallibrary.org/conference-proceedings-of-spie/13102/131021B/The-Simons-Observatory--deployment-and-current-configuration-of-the/10.1117/12.3020237.full">Bhimani, S., et al. (incl. Johnson, A.). "The Simons Observatory: Deployment and current configuration of the Observatory Control System for SAT-MF1." <i>SPIE</i> Vol. 13102 (2024)</a></li>
