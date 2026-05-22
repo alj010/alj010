@@ -37,7 +37,7 @@ Machine Learning • Quantitative Finance • Statistical Signal Processing • 
 
   <li>
     <a href="https://spacegeneration.org/announcement-of-the-sgac-nasa-scan-scholarship-2022">
-      2022 | NASA Space Generation Advisory Council Scholarship
+      2022 | SGAC – NASA Scan Scholarship
     </a>
   </li>
 
