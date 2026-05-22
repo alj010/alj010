@@ -1,25 +1,11 @@
 <h1>Hi, I'm Alyssa 👋🏽</h1>
 
-<h2>
-Experimental Physicist • Machine Learning Engineer • Quantitative Developer
-</h2>
+<h4>
+Ph.D. Candidate, HEPCAT Fellow / Sloan Scholar, and quant researcher / MLE who loves surfing, cycling, and living in San Diego! ☀️🌴🐠
+</h4>
 
 <p>
-I'm a Physics Ph.D. candidate at UC San Diego, HEPCAT Fellow, and Sloan Scholar working at the intersection of 
-<strong>machine learning, signal processing, scientific computing, and quantitative modeling.</strong> 
-Outside of research, I enjoy surfing, cycling, and living in San Diego ☀️🌴
-</p>
-
-<p>
-My background is in <strong>experimental physics, optical instrumentation, and high-dimensional data analysis</strong>, 
-with a focus on signal detection, anomaly detection, and distributed scientific computing. 
-Currently, I work with Dr. Shelley Wright in UCSD’s Optical &amp; Infrared Laboratory on the assembly, integration, and validation of 
-<strong>SiPM detector systems for nanosecond-scale optical transient detection</strong> and high-time-resolution instrumentation for PANOSETI.
-</p>
-
-<p>
-Outside of the lab, I build <strong>ML-driven forecasting, signal detection, and quantitative modeling systems</strong> 
-for noisy, high-dimensional environments using a physics-based approach to statistical inference and machine learning.
+My <strong>background is in experimental physics & optical instrumentation</strong>, with a focus on signal & anomaly detection, and large-scale scientific computing. Currently working with Dr. Shelley Wright in UCSD's Optical & Infrared Laboratory on the assembly, integration, and validation of SiPM detector systems for nanosecond-scale optical transient detection and high-time resolution instrumentation. Outside of the lab, I <strong>build ML-driven quantitative trading and forecasting models.
 </p>
 
 <h3>Skills</h3>
@@ -28,7 +14,7 @@ for noisy, high-dimensional environments using a physics-based approach to stati
 Python • PyTorch • TensorFlow • scikit-learn • SQL • C++ • Spark/PySpark • PostgreSQL • Redis • Airflow • Docker • Kubernetes • Distributed Computing • Time-Series Forecasting • NLP/LLMs • RAG Pipelines • XGBoost/LightGBM • Bloomberg Terminal • Git
 </p>
 
-<h3>Research & Interests</h3>
+<h3>Research Interests</h3>
 
 <p>
 Machine Learning • Quantitative Finance • Statistical Signal Processing • Scientific Computing • Time-Domain Astrophysics • Forecasting &amp; Probabilistic Modeling
