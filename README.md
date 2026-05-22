@@ -25,7 +25,7 @@ Machine Learning • Quantitative Finance • Statistical Signal Processing • 
 <ul>
   <li>
     <a href="https://hepcat.ucsd.edu/graduate-fellows/">
-      2024–Present | DoD High Energy Physics Consortium for Advanced Training (HEPCAT) Fellowship
+      2024–Present | DoE High Energy Physics Consortium for Advanced Training (HEPCAT) Fellowship
     </a>
   </li>
 
